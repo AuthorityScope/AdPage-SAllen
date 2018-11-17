@@ -947,6 +947,7 @@ body {
 .cid-r9BMsfCM8a .mbr-text,
 .cid-r9BMsfCM8a .blockquote-quote {
   color: #000000;
+  text-align: center;
 }
 .cid-r9BMsfCM8a .signature {
   text-align: center;
@@ -1304,7 +1305,7 @@ body {
 }
 .cid-r9BvhrQNiJ {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-r9BvhrQNiJ .mbr-section-title {
@@ -1381,8 +1382,8 @@ body {
   color: #ffffff;
 }
 .cid-r9BF6kNm2Z {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-r9BF6kNm2Z .row {
